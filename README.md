@@ -100,6 +100,17 @@ Here are some of my notable projects:
 - **YPSS Organisation**: Company Profile of YPSS Foundation and Journal System
 - **Denko Wahana Sakti**: Company Profile of Denko Wahana Sakti Bandung
 - **Dustira Hospital College of Health Sciences**: Online Academics Integrated Systems
+- **Dustira Hospital Physiotherapy Academy**: Virtual Tour and Augmented Reality of Campus
+- **Ebook Learn PHP Basics For Beginners Indonesian**
+- **Qiva Project**: Maze Ball 3D Game
+- **Qiva Project**: Augmented Reality of Animals
+- **Qiva Project**: Mixed Reality Portal
+- **Qiva Project**: Virtual Tour of Wiraswasta School
+- **Cimahi City Government**: Integrated Public Complaint System
+- **Pemuda Kreatif Corp**: Article Web
+- **Pemuda Kreatif Corp**: Company Profile
+- **Google**: AIcademy - The Most AI Tools For Education
+- **Dicoding**: Story App
 
 ---
 
