@@ -68,12 +68,27 @@ I am a dedicated and enthusiastic developer with a strong foundation in various 
 - **Certifications**
   - Junior Programmer - National Professional Certification Agency
   - Learn AI Basics - Dicoding
+  - Getting Started with Programming Basics to Become a Software Developer - Dicoding
+  - Learn JavaScript Programming Basics - Dicoding
+  - Cloud Practitioner Essentials (Learn AWS Cloud Basics) - Dicoding
+  - Getting Started with Java Programming - Dicoding
+  - Learn Machine Learning Applications for Android - Dicoding
+  - Learn Android Application Fundamentals - Dicoding
+  - Getting Started With C Programming - Dicoding
+  - Learn SOLID Programming Principles - Dicoding
+  - Learn to Make Android Apps for Beginners - Dicoding
+  - Getting Started with Kotlin - Dicoding
+  - Learn Git Basics with GitHub - Dicoding
+  - Introduction to Programming Logic (Programming Logic 101) - Dicoding
 
 ---
 
 ## 🏆 Awards & Achievements
 
 - Best Students for the 2020/2021 Academic Year - 2021
+- Winner of the 2009 Cimahi City Coloring Competition - 2009
+- Regional drawing champion - 2011
+- UI/UX Champion in "Ngoding Bareng" - 2020
 
 ---
 
@@ -84,6 +99,7 @@ Here are some of my notable projects:
 - **Physiomovement**: Company Profile of Cimahi Physiomovement Clinic
 - **YPSS Organisation**: Company Profile of YPSS Foundation and Journal System
 - **Denko Wahana Sakti**: Company Profile of Denko Wahana Sakti Bandung
+- **Dustira Hospital College of Health Sciences**: Online Academics Integrated Systems
 
 ---
 
